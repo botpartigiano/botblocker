@@ -125,7 +125,6 @@ Mashape API Key. Follow these steps in order to do so:
    your personal “X-Mashape-Key” on the request example code and save
    somewhere:
 
-.. image:: https://my.mixtape.moe/nqkagq.png
 
 Using
 -----
