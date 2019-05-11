@@ -104,7 +104,6 @@ You will be redirected to your app’s page. Then:
    your Consumer Key and the second is your Consumer Secret Key. You
    will need both of them later configuring botblocker:
 
-.. image:: https://cdn.pbrd.co/images/HEvDXKu.png
 
 3 - Getting your Mashape API Key
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
